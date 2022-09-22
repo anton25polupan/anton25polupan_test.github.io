@@ -213,6 +213,10 @@ header .container .header__inner .logo span {
   color: #FF2E63;
 }
 
+header .container .header__inner .logo p {
+  font-size: 14px;
+}
+
 @media screen and (max-width: 1200px) {
   header .container .header__inner nav {
     position: fixed;
