@@ -1361,6 +1361,7 @@ hr {
     }
     #surprice .card__img {
        width: min-content;
+       margin: 0 auto;
     }
     .card__video{
         width: auto;
